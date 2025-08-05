@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alinr19/alinr19/main/code.png" alt="Banner" width="100%" />
+</p>
 
-<h1 align="center">Welcome👋</h1>
 
 <p align="center">
   🎓 Student la <strong>Calculatoare si Tehnologia Informatiei</strong> – Universitatea din Bucuresti  
