@@ -3,12 +3,14 @@
 </p>
 
 
-<p align="center">
-  🎓 Student la <strong>Calculatoare si Tehnologia Informatiei</strong> – Universitatea din Bucuresti  
+
+<div align="center" style="border: 2px solid #444; border-radius: 10px; padding: 20px; margin: 10px; background-color: #1e1e1e; color: #fff">
+  🎓 <strong>Student la Calculatoare și Tehnologia Informației</strong> – Universitatea din București  
   <br>💡 Pasionat de <strong>Inteligență Artificială</strong>, <strong>Web Development</strong> și <strong>Sisteme Embedded</strong>  
   <br>🧠 Îmi place să aduc la viață idei prin proiecte tehnice și vizuale  
   <br>📫 Contact: <a href="mailto:stoian.alin19@yahoo.com">stoian.alin19@yahoo.com</a>
-</p>
+</div>
+
 
 ---
 
