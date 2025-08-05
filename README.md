@@ -1,57 +1,65 @@
-# 👋 Salut, eu sunt Alin!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alinr19/alinr19/main/github_banner.png" alt="Banner" width="100%">
+</p>
 
-🎓 Student la **Calculatoare și Tehnologia Informației** – *Universitatea din București*  
-🤖 Pasionat de **Inteligență Artificială**, **Web Development** și **Sisteme Embedded**  
-💡 Îmi place să explorez concepte tehnice și să le aduc la viață prin proiecte practice.  
-📫 Contact: [stoian.alin19@yahoo.com](mailto:stoian.alin19@yahoo.com)
+<h1 align="center">Salut, eu sunt Alin 👋</h1>
+
+<p align="center">
+  🎓 Student la <strong>Calculatoare și Tehnologia Informației</strong> – Universitatea din București  
+  <br>💡 Pasionat de <strong>Inteligență Artificială</strong>, <strong>Web Development</strong> și <strong>Sisteme Embedded</strong>  
+  <br>🧠 Îmi place să aduc la viață idei prin proiecte tehnice și vizuale  
+  <br>📫 Contact: <a href="mailto:stoian.alin19@yahoo.com">stoian.alin19@yahoo.com</a>
+</p>
 
 ---
 
-## 🔧 Tehnologii & Limbaje
-
-- 🌐 **ASP.NET Core**, Razor Pages, MVC  
-- 🐍 **Python** – AI, algoritmi genetici, vizualizări interactive  
-- 🛠️ **AVR Embedded Systems** – GPIO, LED-uri, senzori  
-- 💻 **C**, **C#**, **JavaScript**, **Haskell**  
-- 🌈 HTML, CSS, JavaScript, React (nivel de bază)  
-- 🐘 PostgreSQL, SQLite  
-- 🔍 Algoritmi de căutare, proiecte cu UI minimalist
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 ---
 
 ## 🧠 Proiecte recente
 
 - 🎮 **Vizualizare algoritmi de căutare**  
-  *Explorare AI: BFS, DFS, A\*, în scenarii precum 8-puzzle, labirint, Pacman*
+  <sub>BFS, DFS, A\*, în scenarii precum 8-puzzle, labirint, Pacman</sub>
 
-- 🧬 **Generare de ASCII Art cu algoritmi genetici**  
-  *Optimizare evolutivă pentru artă text în Python, cu mutații și selecție elitistă*
+- 🧬 **ASCII Art cu algoritmi genetici**  
+  <sub>Optimizare evolutivă pentru artă text în Python</sub>
 
-- 🕸️ **Platformă evidență echipe & proiecte**  
-  *ASP.NET Core MVC + PostgreSQL – CRUD complet, validări, filtre și sortări*
+- 🕸️ **Evidență echipe & proiecte**  
+  <sub>ASP.NET Core MVC + PostgreSQL – CRUD complet, validări și filtre</sub>
 
-- 🎉 **Aplicație pentru evenimente și participanți**  
-  *Interfață web cu Razor Pages, validări și persistare cu SQLite*
-
----
-
-## 📌 Badge-uri rapide
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Embedded](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
+- 📅 **Gestionare evenimente și participanți**  
+  <sub>Web App cu Razor Pages + SQLite</sub>
 
 ---
 
-## 🧩 Fun fact
+## 📊 My GitHub Stats
 
-> Când nu scriu cod, îmi place să descopăr algoritmi interesanți și să creez lucruri vizuale sau interactive care îi explică intuitiv. Mă pasionează ideea de a face AI-ul mai accesibil și ușor de înțeles pentru toți!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alinr19&show_icons=true&theme=radical" alt="Alin's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinr19&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
-🧠 Let's build smart things together!
+## 🌱 Fun fact
+
+> Îmi place să transform algoritmi și concepte AI în ceva vizual, clar și interactiv.
+
+---
+
+<p align="center">🚀 Mulțumesc că ai trecut pe aici! Ne vedem prin cod! 🧠</p>
