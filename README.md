@@ -1,13 +1,14 @@
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/alinr19/alinr19/main/code.png" alt="Banner" width="100%" />
 </p>
 
-
+---
 
 <div align="center" style="border: 2px solid #444; border-radius: 10px; padding: 20px; margin: 10px; background-color: #1e1e1e; color: #fff">
-  🎓 <strong>Student la Calculatoare și Tehnologia Informației</strong> – Universitatea din București  
-  <br>💡 Pasionat de <strong>Inteligență Artificială</strong>, <strong>Web Development</strong> și <strong>Sisteme Embedded</strong>  
-  <br>🧠 Îmi place să aduc la viață idei prin proiecte tehnice și vizuale  
+  🎓 <strong>Computer Science and Engineering student</strong> – University of Bucharest  
+  <br>💡 Passionate about <strong>Artificial Intelligence</strong>, <strong>Web Development</strong>, and <strong>Embedded Systems</strong>  
+  <br>🧠 I enjoy bringing ideas to life through technical and visual projects  
   <br>📫 Contact: <a href="mailto:stoian.alin19@yahoo.com">stoian.alin19@yahoo.com</a>
 </div>
 
@@ -31,21 +32,20 @@
 
 ---
 
-## 🧠 Proiecte recente
+## 🧠 Recent Projects
 
-- 🎮 **Vizualizare algoritmi de căutare**  
-  <sub>BFS, DFS, A\*, în scenarii precum 8-puzzle, labirint, Pacman</sub>
+- 🎮 **Search Algorithm Visualizer**  
+  <sub>BFS, DFS, A\* in scenarios like 8-puzzle, maze, and Pacman</sub>
 
-- 🧬 **ASCII Art cu algoritmi genetici**  
-  <sub>Optimizare evolutivă pentru artă text în Python</sub>
+- 🧬 **ASCII Art with Genetic Algorithms**  
+  <sub>Evolutionary optimization to generate text-based art in Python</sub>
 
-- 🕸️ **Evidență echipe & proiecte**  
-  <sub>ASP.NET Core MVC + PostgreSQL – CRUD complet, validări și filtre</sub>
+- 🕸️ **Team & Project Management System**  
+  <sub>ASP.NET Core MVC + PostgreSQL – full CRUD, validation, and filtering</sub>
 
-- 📅 **Gestionare evenimente și participanți**  
-  <sub>Web App cu Razor Pages + SQLite</sub>
+- 📅 **Event & Participant Management App**  
+  <sub>Web application built with Razor Pages and SQLite</sub>
 
----
 
 ## 📊 My GitHub Stats
 
@@ -59,8 +59,8 @@
 
 ## 🌱 Fun fact
 
-> Îmi place să transform algoritmi și concepte AI în ceva vizual, clar și interactiv.
+> I love turning AI algorithms and concepts into something visual, clear, and interactive.
 
 ---
 
-<p align="center">🚀 Mulțumesc că ai trecut pe aici! Ne vedem prin cod! 🧠</p>
+<p align="center">🚀 Thanks for stopping by! See you in code! 🧠</p>
