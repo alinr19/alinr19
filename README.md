@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alinr19/alinr19/main/github_banner.png" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">Salut, eu sunt Alin 👋</h1>
 
