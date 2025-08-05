@@ -1,8 +1,8 @@
 
-<h1 align="center">Salut, eu sunt Alin 👋</h1>
+<h1 align="center">Welcome👋</h1>
 
 <p align="center">
-  🎓 Student la <strong>Calculatoare și Tehnologia Informației</strong> – Universitatea din București  
+  🎓 Student la <strong>Calculatoare si Tehnologia Informatiei</strong> – Universitatea din Bucuresti  
   <br>💡 Pasionat de <strong>Inteligență Artificială</strong>, <strong>Web Development</strong> și <strong>Sisteme Embedded</strong>  
   <br>🧠 Îmi place să aduc la viață idei prin proiecte tehnice și vizuale  
   <br>📫 Contact: <a href="mailto:stoian.alin19@yahoo.com">stoian.alin19@yahoo.com</a>
