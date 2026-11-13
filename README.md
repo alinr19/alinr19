@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3>🎓 4th-Year Computer Science and Engineering Student – University of Bucharest (FMI - CTI)</h3>
+  <h3>🎓 Master's Degree Student in Software Engineering | University of Bucharest</h3>
 </div>
 
 ---
